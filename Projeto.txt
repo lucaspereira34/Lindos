@@ -1,3 +1,9 @@
 Teste
 
 Novo teste
+
+main.c
+
+funcoes.h
+
+funcoes.c
